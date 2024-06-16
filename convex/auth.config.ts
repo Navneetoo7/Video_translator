@@ -2,7 +2,7 @@
 const authCongif = {
   providers: [
     {
-      domain: "https://natural-tadpole-18.clerk.accounts.dev/",
+      domain: "https://natural-tadpole-18.clerk.accounts.dev",
       applicationID: "convex",
     },
   ],
